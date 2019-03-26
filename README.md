@@ -28,5 +28,7 @@
 AzerothCore: [repository](https://github.com/azerothcore) - [website](http://azerothcore.org/) - [discord chat community](https://discord.gg/PaqQRkd)
 
 ## Showcase / Images 
-# ![logo](https://image.prntscr.com/image/-YL9k_81Tt615rJ1zPXD3w.png)
 # ![logo](https://image.prntscr.com/image/ZqkOd4Q-QmG3PHB6Oad4TQ.png)
+# ![logo](https://i.imgur.com/XyzXG9J.png) ![logo](https://image.prntscr.com/image/-YL9k_81Tt615rJ1zPXD3w.png)
+# ![logo](https://i.imgur.com/8dqhDfZ.png) ![logo](https://i.imgur.com/0oqyh4X.png)
+
