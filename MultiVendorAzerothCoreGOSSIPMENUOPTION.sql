@@ -1,0 +1,3 @@
+INSERT INTO `gossip_menu_option` (`menuid`, `optionid`, `optionicon`, `optiontext`, `optiontype`, `optionnpcflag`, `actionmenuid`, `actionpoiid`, `boxcoded`, `boxmoney`, `boxtext`) VALUES (56003, 0, 4, 'Vendortest465', 3, 128, 465, 0, 0, 0, NULL);
+INSERT INTO `gossip_menu_option` (`menuid`, `optionid`, `optionicon`, `optiontext`, `optiontype`, `optionnpcflag`, `actionmenuid`, `actionpoiid`, `boxcoded`, `boxmoney`, `boxtext`) VALUES (56003, 1, 9, 'Vendortest54', 3, 128, 54, 0, 0, 0, NULL);
+INSERT INTO `gossip_menu_option` (`menuid`, `optionid`, `optionicon`, `optiontext`, `optiontype`, `optionnpcflag`, `actionmenuid`, `actionpoiid`, `boxcoded`, `boxmoney`, `boxtext`) VALUES (56003, 2, 6, 'Vendortest35574', 3, 128, 35574, 0, 0, 0, 'These goods are special, so pay up!');
