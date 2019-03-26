@@ -10,7 +10,7 @@
 - AzerothCore v2.0
 
 ### How to install
-1. Navigate in `PATCH` folder and copy `MultiVendorAzerothCorebyPoszer.patch` to your `AC Source Folder`
+1. Navigate in `PATCH` and you have to manually add code from patch.
 2. Apply patch
 3. Navigate in `SQL` folder and import these two sql files in your world base.
 4. Rebuild core, Done :)
