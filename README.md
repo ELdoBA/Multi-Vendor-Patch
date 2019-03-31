@@ -17,6 +17,7 @@
 
 ### Usage
 - Spawn NPC, and talk with him :D
+- If you have problems check [WIKI HERE](https://github.com/poszer/Multi-Vendor-AzerothCore-Patch/wiki)
 
 ### Showcase / Video 
 [SOON](https://github.com/poszer)
