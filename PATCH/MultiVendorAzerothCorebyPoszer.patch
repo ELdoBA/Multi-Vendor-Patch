@@ -123,6 +123,14 @@ index 55377cd6..cac25e14 100644
          void SendShowBank(uint64 guid);
          bool CanOpenMailBox(uint64 guid);
          void SendShowMailBox(uint64 guid);
+@@ -973,6 +973,7 @@ class WorldSession
+         Player* _player;
+         WorldSocket* m_Socket;
+         std::string m_Address;
++	uint64 m_CurrentVendor;
+         // std::string m_LAddress;                             // Last Attempted Remote Adress - we can not set attempted ip for a non-existing session!
+ 
+         AccountTypes _security;
 diff --git a/src/server/scripts/Commands/cs_npc.cpp b/src/server/scripts/Commands/cs_npc.cpp
 index 3b48d861..a907fefc 100644
 --- a/src/server/scripts/Commands/cs_npc.cpp
