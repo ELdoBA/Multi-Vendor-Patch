@@ -84,18 +84,6 @@ index 7c22a854..bf8459b5 100644
      uint8 itemCount = items->GetItemCount();
      uint8 count = 0;
  
-diff --git a/src/server/game/Server/WorldSession.cpp b/src/server/game/Server/WorldSession.cpp
-index b21ec80a..f8709b73 100644
---- a/src/server/game/Server/WorldSession.cpp
-+++ b/src/server/game/Server/WorldSession.cpp
-@@ -112,6 +112,7 @@ WorldSession::WorldSession(uint32 id, WorldSocket* sock, AccountTypes sec, uint8
-     recruiterId(recruiter),    
-     isRecruiter(isARecruiter),
-     m_currentBankerGUID(0),
-+    m_CurrentVendor(0),
-     timeWhoCommandAllowed(0)
- {
-     memset(m_Tutorials, 0, sizeof(m_Tutorials));
 diff --git a/src/server/game/Server/WorldSession.h b/src/server/game/Server/WorldSession.h
 index 55377cd6..cac25e14 100644
 --- a/src/server/game/Server/WorldSession.h
