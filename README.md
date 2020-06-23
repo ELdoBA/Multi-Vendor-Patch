@@ -1,13 +1,8 @@
-# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
-# Multi Vendor patch ( AzerothCore )
-### This is a patch for [AzerothCore](http://www.azerothcore.org)
+# Multi Vendor patch
 
 #### Features:
 - Multi Vendor:
 - Use multi vendors in one creature
-
-### Version:
-- AzerothCore v2.0
 
 ### How to install
 1. Navigate in `PATCH` and you have to manually add code from patch.
@@ -17,7 +12,7 @@
 
 ### Usage
 - Spawn NPC, and talk with him :D
-- If you have problems check [WIKI HERE](https://github.com/poszer/Multi-Vendor-AzerothCore-Patch/wiki)
+- If you have problems check [WIKI HERE](https://github.com/poszer/Multi-Vendor-Patch/wiki)
 
 ### Showcase / Video 
 [SOON](https://github.com/poszer)
@@ -25,8 +20,7 @@
 
 ## Credits
 * [Poszer](https://github.com/Poszer): (author of the module): 
-
-AzerothCore: [repository](https://github.com/azerothcore) - [website](http://azerothcore.org/) - [discord chat community](https://discord.gg/PaqQRkd)
+* [Rochet2](https://github.com/Rochet2): (Orginal diff): 
 
 ## Showcase / Images 
 # ![logo](https://image.prntscr.com/image/ZqkOd4Q-QmG3PHB6Oad4TQ.png)
